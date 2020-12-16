@@ -4,6 +4,7 @@ import { StyleSheet, Text, View } from "react-native";
 
 export default function App() {
   // Left in to remind me that i have .env configured
+  //
   // console.log(process.env.CLIENT_ID);
   // console.log(process.env.API_KEY);
   return (
