@@ -4,7 +4,6 @@ import { StyleSheet, Text, View } from "react-native";
 
 const RestaurantList = () => {
   const {} = styles;
-  //
 
   return (
     <View>
