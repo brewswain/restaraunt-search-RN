@@ -1,5 +1,5 @@
-import RestaurantList from "./RestaurantList";
+import ResultsDetail from "./resultsDetail";
 import ResultsList from "./ResultsList";
 import SearchBar from "./SearchBar";
 
-export { RestaurantList, ResultsList, SearchBar };
+export { ResultsList, ResultsDetail, SearchBar };

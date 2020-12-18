@@ -1,7 +1,7 @@
 import React from "react";
 import { createAppContainer } from "react-navigation";
 import { createStackNavigator } from "react-navigation-stack";
-import { SearchScreen } from "./src/screens";
+import { ResultsShowScreen, SearchScreen } from "./src/screens";
 
 // Left in to remind me that i have .env configured
 //
@@ -11,6 +11,7 @@ import { SearchScreen } from "./src/screens";
 const navigator = createStackNavigator(
   {
     Search: SearchScreen,
+    Results: ResultsShowScreen,
   },
   {
     initialRouteName: "Search",

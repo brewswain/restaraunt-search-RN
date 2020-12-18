@@ -1,1 +1,19 @@
 [1217/182547.672:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1218/070314.142:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[1218/070314.142:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[1218/070314.130:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[1218/070314.139:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[1218/070314.133:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[1218/070314.198:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[1218/070314.201:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[1218/070314.218:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[1218/070314.226:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[1218/070314.251:ERROR:exception_snapshot_win.cc(99)] thread ID 4468 not found in process
+[1218/070314.251:ERROR:exception_snapshot_win.cc(99)] thread ID 8828 not found in process
+[1218/070314.251:ERROR:exception_snapshot_win.cc(99)] thread ID 21788 not found in process
+[1218/070314.251:ERROR:exception_snapshot_win.cc(99)] thread ID 10524 not found in process
+[1218/070314.251:ERROR:exception_snapshot_win.cc(99)] thread ID 23112 not found in process
+[1218/070314.251:ERROR:exception_snapshot_win.cc(99)] thread ID 876 not found in process
+[1218/070314.251:ERROR:exception_snapshot_win.cc(99)] thread ID 22304 not found in process
+[1218/070314.252:ERROR:exception_snapshot_win.cc(99)] thread ID 10864 not found in process
+[1218/070314.251:ERROR:exception_snapshot_win.cc(99)] thread ID 22036 not found in process
